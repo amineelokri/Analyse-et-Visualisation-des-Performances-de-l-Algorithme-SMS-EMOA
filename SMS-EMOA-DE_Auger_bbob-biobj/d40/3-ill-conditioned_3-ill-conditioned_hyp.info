@@ -1,0 +1,5 @@
+algorithm = 'SMS-EMOA-DE', indicator = 'hyp', folder = '3-ill-conditioned_3-ill-conditioned', coco_version = '1.1.1.137'
+% SMS-EMOA-DE: MATLAB implementation of the SMS-EMOA with differential evolution as submitted by Auger et al. for BBOB 2016 - reference values current data (reconstructed)
+function =  36, dim =  40, bbob-biobj_f36_d40_hyp.dat, 1:4000001|3.5e-002, 2:4000001|5.0e-002, 3:4000001|2.8e-002, 4:4000001|2.9e-002, 5:4000001|8.0e-002, 6:4000001|3.5e-002, 7:4000001|2.7e-002, 8:4000001|2.4e-002, 9:4000001|3.6e-002, 10:4000001|2.8e-002
+function =  41, dim =  40, bbob-biobj_f41_d40_hyp.dat, 1:4000001|8.3e-003, 2:4000001|5.9e-003, 3:4000001|8.4e-003, 4:4000001|9.2e-003, 5:4000001|6.9e-003, 6:4000001|1.8e-002, 7:4000001|2.1e-002, 8:4000001|1.3e+001, 9:4000001|5.6e-003, 10:4000001|8.6e-003
+function =  35, dim =  40, bbob-biobj_f35_d40_hyp.dat, 1:4000001|3.1e-002, 2:4000001|3.4e-002, 3:4000001|2.9e-002, 4:4000001|2.6e-002, 5:4000001|1.1e+000, 6:4000001|2.0e-002, 7:4000001|3.6e-002, 8:4000001|2.8e-002, 9:4000001|2.5e-002, 10:4000001|3.8e-002
